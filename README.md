@@ -1,5 +1,5 @@
 
-# Covid dataset analysis using SQL.
+# Covid dataset expolaration using SQL.
 
  The dataset was analysed using sql through queries written to extract meaningful information from the dataset
  I have two tables covid_death and covid_vac respectively.
