@@ -7,3 +7,6 @@
  I performed several joins , used a couple of aggregate functions to extract the information.
  Thank you
  
+ ## Real Estate DataSet
+ This data set was also analyzed using sql , I was able to clean the data set , aggregate , summarize and filter for specific properties in the data
+ 
